@@ -3,16 +3,16 @@ let chalk = require('chalk')
 global.owner = [
   ['6281646829895'],
   ['6285624813115'],
-  ['6281646829895', 'Irfaan Official', true]  
+  ['6285624823115', 'Irfaan Official', true]  
   
 ] 
 global.ownername = [['Irfaan Official']]
 global.namabot = [['Alfarabotz']]
 global.ownerinsta = [['']]
-global.instalu = [['instagram.com/Irfaanabdulhafiizh']]
+global.instalu = [['instagram.com/Irfaanabdulhafizh']]
 global.ytlu = [['https://youtube.com/channel/UCaFh82MyrVgcgIvJxvTA39w']]
 global.mods = [] 
-global.prems = ['6285624823115'] 
+global.prems = ['6281646829895'] 
 
 global.APIs = { 
   nrtm: 'https://nurutomo.herokuapp.com',
